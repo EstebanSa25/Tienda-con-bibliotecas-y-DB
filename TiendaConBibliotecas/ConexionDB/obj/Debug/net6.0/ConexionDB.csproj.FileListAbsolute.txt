@@ -1,0 +1,15 @@
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\ConexionDB\bin\Debug\net6.0\ConexionDB.deps.json
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\ConexionDB\bin\Debug\net6.0\ConexionDB.dll
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\ConexionDB\bin\Debug\net6.0\ConexionDB.pdb
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\ConexionDB\bin\Debug\net6.0\Model.dll
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\ConexionDB\bin\Debug\net6.0\Model.pdb
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\ConexionDB\obj\Debug\net6.0\ConexionDB.csproj.AssemblyReference.cache
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\ConexionDB\obj\Debug\net6.0\ConexionDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\ConexionDB\obj\Debug\net6.0\ConexionDB.AssemblyInfoInputs.cache
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\ConexionDB\obj\Debug\net6.0\ConexionDB.AssemblyInfo.cs
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\ConexionDB\obj\Debug\net6.0\ConexionDB.csproj.CoreCompileInputs.cache
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\ConexionDB\obj\Debug\net6.0\ConexionDB.csproj.CopyComplete
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\ConexionDB\obj\Debug\net6.0\ConexionDB.dll
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\ConexionDB\obj\Debug\net6.0\refint\ConexionDB.dll
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\ConexionDB\obj\Debug\net6.0\ConexionDB.pdb
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\ConexionDB\obj\Debug\net6.0\ref\ConexionDB.dll

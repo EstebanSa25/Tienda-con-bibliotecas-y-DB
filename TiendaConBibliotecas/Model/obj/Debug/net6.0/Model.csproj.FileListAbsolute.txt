@@ -1,0 +1,12 @@
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\Model\bin\Debug\net6.0\Model.deps.json
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\Model\bin\Debug\net6.0\Model.dll
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\Model\bin\Debug\net6.0\Model.pdb
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\Model\obj\Debug\net6.0\Model.dll
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\Model\obj\Debug\net6.0\refint\Model.dll
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\Model\obj\Debug\net6.0\Model.pdb
+D:\CURSO\Proyectos\c# consola\TiendaConBibliotecas\Model\obj\Debug\net6.0\ref\Model.dll
